@@ -1,0 +1,5 @@
+{
+  "name": "Badminton Score Assistant",
+  "description": "A smart badminton match scoring and entry tool with logical set validation.",
+  "requestFramePermissions": []
+}
